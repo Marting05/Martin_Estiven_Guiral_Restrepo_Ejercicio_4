@@ -1,11 +1,12 @@
 # Martin_Estiven_Guiral_Restrepo_Ejercicio_4
 
-4. Historial de operaciones de un cajero
+Historial de operaciones de un cajero
 Objeto Operacion
 •	numeroOperacion 
 •	tipo 
 •	valor 
 •	fecha 
+
 El sistema debe permitir:
 1.	Registrar una operación. 
 2.	Deshacer la última operación. 
