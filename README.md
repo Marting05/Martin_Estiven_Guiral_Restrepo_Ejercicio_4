@@ -1,6 +1,7 @@
 # Martin_Estiven_Guiral_Restrepo_Ejercicio_4
 
 Historial de operaciones de un cajero
+
 Objeto Operacion
 •	numeroOperacion 
 •	tipo 
